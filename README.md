@@ -10,7 +10,7 @@
 ### Дополнительные материалы
 В качестве дополнительных материалов мы рекомендуем несколько книг по разработке на Java, с которыми полезно ознакомиться перед началом изучения курса.
 
-[Java. Библиотека профессионала. Автор К. Хорстманн (Core Java by K. )](https://www.amazon.com/Core-Java-I-Fundamentals-10th/dp/0134177304)
+[Java. Библиотека профессионала. Автор К. Хорстманн (Core Java by K. Horstamnn)](https://www.amazon.com/Core-Java-I-Fundamentals-10th/dp/0134177304)
 
 [Java. Эффективное программирование. Автор Д. Блох (Effective Java by Joshua Bloch)](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997)
 
